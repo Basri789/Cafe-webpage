@@ -1,5 +1,5 @@
 # Cafe-webpage
-In this project i have created a restaurant webpage using HTML, CSS and AZURE STATIC WEB APP SERVICE.
+In this project i have created a Static restaurant webpage using HTML, CSS and AZURE STATIC WEB APP SERVICE.
 In this website one can see the menu and our features and you can reach out to us by submitting the form etc
 
 Project website link(demo Link) : https://black-coast-04c0a4a10.1.azurestaticapps.net/
